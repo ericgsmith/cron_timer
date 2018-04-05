@@ -1,0 +1,4 @@
+services:
+  cron_timer:
+    class: Drupal\cron_timer\CronTimer
+    arguments: ['@state', '@datetime.time']

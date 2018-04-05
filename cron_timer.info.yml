@@ -1,0 +1,4 @@
+name: Cron Timer
+description: Service to throttle the execution of tasks.
+type: module
+core: 8.x
