@@ -1,0 +1,11 @@
+{
+  "name": "drupal/cron_timer",
+  "type": "drupal-module",
+  "description": "Service to throttle the execution of tasks.",
+  "keywords": ["Drupal", "cron"],
+  "license": "GPL-2.0+",
+  "support": {
+    "issues": "http://drupal.org/project/issues/cron_timer",
+    "source": "http://cgit.drupalcode.org/cron_timer"
+  }
+}
